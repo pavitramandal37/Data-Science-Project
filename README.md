@@ -1,4 +1,4 @@
-# Text Mining Project 1
+# Text Mining and NLP Project 1
 Objective: -
 In this project, we are going to understand what the consumers think of their products by analysing the review and understand what the consumers like or dislike about their products. How to improve the product and increase the profits of the product by keeping the customers happy. For analyzing the reviews of their products on websites such as Amazon or Snapdeal by using text mining and sentiment analysis techniques. 
 
